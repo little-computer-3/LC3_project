@@ -12,6 +12,7 @@ Hardware emulator core : A software module that imitates step-by-step the behavi
 Status display : The user interface of the simulator that displays the system status to the user when the code is executed.
 
 # Some views of the code
-![Screenshot (184)](https://github.com/Pouyaamini123/debugCodes/assets/133509661/ac2b2f0a-ca47-4320-bb73-37e3bbe664e2)<br />
-![Screenshot (185)](https://github.com/Pouyaamini123/debugCodes/assets/133509661/ff79fee4-d136-4556-abb5-d50c2bb7272b)<br />
-![Screenshot (191)](https://github.com/Pouyaamini123/debugCodes/assets/133509661/2de26f6f-f566-418d-b009-ace1fea5fa17)
+
+![Screenshot (185) (1)](https://github.com/user-attachments/assets/2bf10549-6358-423a-9001-ba092f2d566a)
+![Screenshot (189) (1)](https://github.com/user-attachments/assets/d35148f0-2a3f-4760-bb53-f932aa2e2dd2)
+![Screenshot (188) (1)](https://github.com/user-attachments/assets/ea42e045-c989-453e-9d5b-a5b632b727c3)
